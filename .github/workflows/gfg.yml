@@ -1,4 +1,4 @@
-name: Java CI with Maven by srini!
+name: Java CI with Maven by srini docker!
 on:
   push:
     branches: [ "main" ]
